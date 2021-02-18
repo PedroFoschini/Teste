@@ -24,7 +24,8 @@
 
 6- Sirva acompanhado de arroz e batata palha.
 
+### Observações pertinentes:
+
 **Para deixar o texto em negrito, usa-se dois asteriscos no começo e no final do texto.**
 
 _Para deixar o texto em itálico, usa-se underline no começo e no final do texto._
-
