@@ -1,4 +1,4 @@
-# Strogonoff de Frango :chicken
+# Strogonoff de Frango :chicken:
 
 ### Ingredientes:
 
@@ -19,6 +19,6 @@
 5- Acrescente o ketchup, a mostarda e, por fim, o creme de leite.
 6- Sirva acompanhado de arroz e batata palha.
 
-*Para deixar o texto em negrito, usa-se um asterisco no começo e no final do texto.*
+**Para deixar o texto em negrito, usa-se dois asteriscos no começo e no final do texto.**
 _Para deixar o texto em itálico, usa-se underline no começo e no final do texto._
 
